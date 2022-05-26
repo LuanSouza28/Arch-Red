@@ -28,4 +28,4 @@ Edite e salve tudo certinho,Por fim reinicie.
 
 Para baixar pelo terminal :
 
-git clone https://github.com/LuanSouza28/Arch.git
+git clone https://github.com/LuanSouza28/Arch-Red.git
