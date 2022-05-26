@@ -1,5 +1,5 @@
-# Arch verde GRUB tema 🎨
-estraia os arquivos para Área de Trabalho,depois abra o terminal digite o comando para abrir o genciador de arquivos do seu sistema,vá até a pasta /boot/grub/themes e cole o tema Arch,atualize o grub com os comandos:
+# Arch RED GRUB tema 🎨
+estraia os arquivos para Área de Trabalho,depois abra o terminal digite o comando para abrir o genciador de arquivos do seu sistema,vá até a pasta /boot/grub/themes e cole o tema Arch Red,atualize o grub com os comandos:
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 update-grub
 #############################################
